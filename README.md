@@ -7,24 +7,24 @@
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
  <br />
  
- <!--- All competitive programming profiles 
+ <!--- All competitive programming profiles --->
  
 <h2 align="left"><samp><i> -Developer and Competitive profiles...</i></samp></h2>
 
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]  --->
+[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]  
 
 <br />
-<br />
 
+<!---
 <h2 align="left"><samp><i> -Connect with me...</i></samp></h2>
 <br />
 
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
 [<img width="30px" src="https://img.icons8.com/color/96/000000/twitter--v2.png"/>][twitter]
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>][instagram]
-[<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
+[<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]   --->
 
 
 <h2 align="left"><samp><i> -Technologies And Tool's...</i></samp></h2>
