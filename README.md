@@ -27,7 +27,7 @@
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 
-<h2 align="left"><samp><i>Technologies And Tool's I've Wrorked With...</i></samp></h2>
+<h2 align="left"><samp><i>Technologies And Tool's...</i></samp></h2>
 
  <p>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
