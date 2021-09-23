@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Phoenix-031/Phoenix-031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Javascript and Competitive Programming
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/phoenix__31)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
