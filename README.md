@@ -11,13 +11,14 @@ I am always open to collaborating on projects and innovative/disruptive ideas
 ### Connect with me. 💬💬 
 <br />
 
-[<img align= 'left' alt="Debayan" width="30px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/linkedin.svg" />][linkedin]
-[<img align= 'left' alt="Debayan" width="30px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/instagram.svg" />][instagram]
-[<img align= 'left' alt="Debayan" width="30px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/twitter.svg" />][twitter]
+[<img align= 'left' alt="Debayan" width="40px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/linkedin.svg" />][linkedin]
+[<img align= 'left' alt="Debayan" width="40px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/instagram.svg" />][instagram]
+[<img align= 'left' alt="Debayan" width="40px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/twitter.svg" />][twitter]
 
 <br />
 ---
-
+<br />
+<br />
 
 - 🌱 I’m currently learning Javascript and Competitive Programming
 - 👯 I’m looking to collaborate on Open source
