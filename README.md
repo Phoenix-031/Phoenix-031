@@ -31,7 +31,7 @@
 </p>
  <br />
  
- <img align="left" alt="Github Stat's" src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme="gruvbox"&show_icons=true /> 
+ <img align="left" alt="Github Stat's" src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox&show_icons=true /> 
 
 
 - 🌱 I’m currently learning Javascript and Competitive Programming
