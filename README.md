@@ -7,7 +7,9 @@
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
  <br />
  
- <a href="https://codeforces.com/profile/wwkfnknfkenfk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+ <h3 align="left"><samp> Developer and Competitive profiles </samp></h3>
+
+ <a href="https://codeforces.com/profile/wwkfnknfkenfk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="50" width="50" /></a>
 
 ### Connect with me.. 💬💬 
 <br />
