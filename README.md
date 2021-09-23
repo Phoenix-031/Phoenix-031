@@ -1,4 +1,15 @@
-### Hello world .I am Debayan !!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there !! nice to see you .  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+Weolcome to my page!
+I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.
+I'm currently living in kolkata,India.
+
+I'm a open source enthusiast and I am learning a lot from the community of developers. I am passionate about technology and how things work.
+I am always open to collaborating on projects and innovative/disruptive ideas
+
+
+### Connect with me. 💬💬 
+
 
 
 - 🌱 I’m currently learning Javascript and Competitive Programming
