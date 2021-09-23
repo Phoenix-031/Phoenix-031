@@ -17,9 +17,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 <br />
-
 ### Technologies And Tool's I've Wrorked With..
-<br />
+
  <p>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
