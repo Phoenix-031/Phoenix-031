@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Competitive Programing
-- 📫 How to reach me: [Twitter](https://twitter.com/phoenix__31)...[Instagram](https://instagram.com/__anonymous___2002___)
+- 📫 How to reach me: [Twitter](https://twitter.com/phoenix__31)  ...  [Instagram](https://instagram.com/__anonymous___2002___)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
