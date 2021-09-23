@@ -1,4 +1,4 @@
-### Hey there !! nice to see you .  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there !! nice to see you .  
 
 Weolcome to my page!
 I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.
