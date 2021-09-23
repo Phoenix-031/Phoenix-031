@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### Connect with me.. 💬💬 
+<h2 align="left"><samp><i>Connect with me...</i></samp></h2>
 <br />
 
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
