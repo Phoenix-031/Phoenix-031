@@ -7,13 +7,13 @@
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
  <br />
  
- <!--- All competitive programming profiles --->
+ <!--- All competitive programming profiles 
  
 <h2 align="left"><samp><i> -Developer and Competitive profiles...</i></samp></h2>
 
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]
+[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]  --->
 
 <br />
 <br />
@@ -50,6 +50,7 @@
  <img align="left" alt=" Github Stat's " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox&show_icons=true" /> 
  <!--- <img align="right" alt=" Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" /> --->
  
+ <br /> 
  </p>
 
 <br />
