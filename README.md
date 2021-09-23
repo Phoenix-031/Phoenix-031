@@ -9,8 +9,11 @@
  
 <h3 align="left"><samp> Developer and Competitive profiles...</samp></h3>
 
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="30" width="40" />](https://leetcode.com/phoenix31/)
+[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />](https://www.codechef.com/users/phoenix31)
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="50" width="100" />](https://codeforces.com/profile/anonymous_2002)
+[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="30" width="40" />](https://leetcode.com/phoenix31/)
+
+
  
 <br />
 
