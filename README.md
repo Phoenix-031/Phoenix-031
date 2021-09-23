@@ -19,13 +19,20 @@ I am always open to collaborating on projects and innovative/disruptive ideas
 <br />
 <br />
 
-### Technologies I've Wrorked With..
+### Technologies And Tool's I've Wrorked With..
 <br />
  <p>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-      
- </p>
-
+      <img width="50px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
+      <img width="50px" src="https://img.icons8.com/color/96/000000/git.png"/>
+      <img width="50px" src="https://img.icons8.com/material-two-tone/96/000000/github.png"/>
+      <img width="50px" src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
+      <img width="50px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>
+      <img width="50px" src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+      <img width="50px" src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
+ 
+</p>
+ <br />
 
 - 🌱 I’m currently learning Javascript and Competitive Programming
 - 👯 I’m looking to collaborate on Open source
