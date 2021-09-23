@@ -1,4 +1,4 @@
-<h2 align="left"><samp> Hey there !! nice to see you .</h2></samp>
+<h2 align="left"><samp> Hey there !! nice to see you .</samp></h2>
 
 <h3 align="left"><samp>Welcome to my page!</samp></h3>
 <h4 align="center">I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.
@@ -12,8 +12,8 @@ I'm currently living in kolkata,India.</samp></h4>
 <br />
 
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
-[<img width="30px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>][instagram]
 [<img width="30px" src="https://img.icons8.com/color/96/000000/twitter--v2.png"/>][twitter]
+[<img width="30px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>][instagram]
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 
