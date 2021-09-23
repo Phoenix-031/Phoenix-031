@@ -1,4 +1,4 @@
-### Hey there !! nice to see you .  
+<samp># Hey there !! nice to see you .</samp>
 
 <h3 align="left"><samp>Welcome to my page!</samp></h3>
 <h4 align="center">I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.
@@ -36,7 +36,6 @@ I'm currently living in kolkata,India.</samp></h4>
 - 👯 I’m looking to collaborate on Open source
 - 💬 Ask me about Competitive Programing
 - 😄 Pronouns: He/Him
-
 
 
 
