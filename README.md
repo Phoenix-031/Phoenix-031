@@ -1,4 +1,4 @@
-<h2 align="left"><samp> Hey there !! nice to see you .</samp></h2><img width="25px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/391906110_WAVING_HAND_400px.gif"/>
+<h2 align="left"><samp> Hey there !! nice to see you .</samp></h2>
 
 <h3 align="left"><samp>Welcome to my page!</samp></h3>
 <h4 align="center">I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.I'm currently living in kolkata,India.</samp></h4>
@@ -30,6 +30,9 @@
  
 </p>
  <br />
+ 
+ <img align="left" alt="Debayan's Github Stat's" src="https://github-readme-stats.vercel.app/api?username=Phoenix-031" /> 
+
 
 - 🌱 I’m currently learning Javascript and Competitive Programming
 - 👯 I’m looking to collaborate on Open source
