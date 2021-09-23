@@ -1,4 +1,4 @@
-### Hi there 👋
+##_ HEY !!_
 
 
 - 🌱 I’m currently learning Javascript and Competitive Programming
@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 
 
-> Keep smiling and work harder
+
