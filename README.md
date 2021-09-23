@@ -7,12 +7,17 @@
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
  <br />
  
+ <!--- All competitive programming profiles --->
+ 
 <h3 align="left"><samp> Developer and Competitive profiles...</samp></h3>
 
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]
+<p>
+        [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
+        [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
+        [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]
  
+</p>
+
 <br />
 <br />
 
@@ -25,7 +30,7 @@
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 
-### Technologies And Tool's I've Wrorked With..
+<h2 align="left"><samp><i>Technologies And Tool's I've Wrorked With...</i></samp></h2>
 
  <p>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
@@ -58,6 +63,7 @@
 
 
 
+<!--- All links mentioned here --->
 
 [instagram]:https://instagram.com/__anonymous___2002___
 [twitter]:https://twitter.com/phoenix__31
