@@ -9,7 +9,7 @@
  
  <!--- All competitive programming profiles --->
  
-<h3 align="left"><samp> Developer and Competitive profiles...</samp></h3>
+<h2 align="left"><samp><i> Developer and Competitive profiles...</i></samp></h2>
 
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
