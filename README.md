@@ -9,7 +9,7 @@
  
  <!--- All competitive programming profiles --->
  
-<h2 align="left"><samp><i> Developer and Competitive profiles...</i></samp></h2>
+-<h2 align="left"><samp><i> Developer and Competitive profiles...</i></samp></h2>
 
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
@@ -27,7 +27,7 @@
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 
-<h2 align="left"><samp><i>Technologies And Tool's...</i></samp></h2>
+-<h2 align="left"><samp><i>Technologies And Tool's...</i></samp></h2>
 
  <p>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
@@ -42,7 +42,7 @@
 </p>
  <br />
  
- <h4 align="left"><samp>Github Analytics</samp></h4>
+ -<h2 align="left">Github Analytics</h2>
  
  <br />
  
