@@ -21,8 +21,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas
 - 🌱 I’m currently learning Javascript and Competitive Programming
 - 👯 I’m looking to collaborate on Open source
 - 💬 Ask me about Competitive Programing
-- 📫 How to reach me: [Twitter](https://twitter.com/phoenix__31)  ...  
 - 😄 Pronouns: He/Him
+
+
 
 
 
