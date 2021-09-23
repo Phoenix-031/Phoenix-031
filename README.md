@@ -50,6 +50,8 @@
 <br />
 
 <!--- Connect with me links --->
+---
+<p align="center"><b><i>Here are my socials.Don't hesitate to connect.😄 </i></b></p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/debayan-pradhan-b138641b4/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
