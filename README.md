@@ -22,7 +22,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas
 ### Technologies I've Wrorked With..
 <br />
  <p>
-      <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+      <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
       
  </p>
 
