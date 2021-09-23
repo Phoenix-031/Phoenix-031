@@ -35,7 +35,7 @@
  
  <br />
  
- <img align="left" alt=" Github Stat's " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox" /> 
+ <img align="left" alt=" Github Stat's " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvboxshow_icons=true" /> 
 
 <br />
 
