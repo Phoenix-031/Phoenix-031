@@ -9,7 +9,7 @@
  
  <h3 align="left"><samp> Developer and Competitive profiles </samp></h3>
 
- <a href="https://codeforces.com/profile/wwkfnknfkenfk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="50" width="50" /></a>
+ <a href="https://codeforces.com/profile/anonymous_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="50" width="50" /></a>
 
 ### Connect with me.. 💬💬 
 <br />
