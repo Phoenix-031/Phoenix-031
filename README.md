@@ -42,7 +42,7 @@
 </p>
  <br />
  
- -<h2 align="left"> -Github Analytics</h2>
+ <h2 align="left"> -Github Analytics</h2>
  
  <br />
  
