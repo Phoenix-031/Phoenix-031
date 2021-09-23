@@ -1,4 +1,4 @@
-<samp># Hey there !! nice to see you .</samp>
+<h2 align="left"><samp> Hey there !! nice to see you .</h2></samp>
 
 <h3 align="left"><samp>Welcome to my page!</samp></h3>
 <h4 align="center">I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.
