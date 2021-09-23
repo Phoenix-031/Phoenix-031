@@ -50,14 +50,14 @@
  <img align="right" alt=" Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
 
 <br />
-<!---
-- 🌱 I’m currently learning Javascript and Competitive Programming
-- 👯 I’m looking to collaborate on Open source
-- 💬 Ask me about Competitive Programing
-- 😄 Pronouns: He/Him
- 
- --->
 
+<h2 align="left"><samp><i> -Connect with me...</i></samp></h2>
+<br />
+
+[<img width="30px" align="center" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
+[<img width="30px" align="center" src="https://img.icons8.com/color/96/000000/twitter--v2.png"/>][twitter]
+[<img width="30px" align="center" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>][instagram]
+[<img width="30px" align="center" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 
 <!--- All links mentioned here --->
@@ -70,4 +70,15 @@
 [codechef]:(https://www.codechef.com/users/phoenix31)
 [leetcode]:(https://leetcode.com/phoenix31/)
       
+
+
+
+
+<!---
+- 🌱 I’m currently learning Javascript and Competitive Programming
+- 👯 I’m looking to collaborate on Open source
+- 💬 Ask me about Competitive Programing
+- 😄 Pronouns: He/Him
+ 
+ --->
 
