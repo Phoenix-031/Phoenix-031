@@ -27,8 +27,9 @@
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/>][instagram]
 [<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]   --->
 
+<!--- Technologies and tools used --->
 
-<h2 align="left"><samp><i> -Technologies And Tool's...</i></samp></h2>
+<h2 align="left"><samp><i> -Tools and Technologies...</i></samp></h2>
 
  <p>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
@@ -41,11 +42,11 @@
       <img width="50px" src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
  
 </p>
- <br />
+ 
+ <!--- Github anlytics --->
  
  <p>
  <h2 align="left"> -Github Analytics</h2>
- 
  <br />
  
  <img align="left" alt=" Github Stat's " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox&show_icons=true" /> 
