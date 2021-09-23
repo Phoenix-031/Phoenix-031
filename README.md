@@ -52,7 +52,7 @@
  <img align="left" alt=" Github Stat's " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox&show_icons=true" /> 
  <!--- <img align="right" alt=" Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" /> --->
  
- <br /><br /><br /><br /><br /><br /><br /><br />
+ <br /><br /><br /><br /><br /><br />
  </p>
 
 <!--- Connect with me links --->
@@ -66,6 +66,8 @@
 [<img width="30px" align="center" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hggchgchg&label=Profile%20views&color=0e75b6&style=flat" alt="hggchgchg" /> </p>
 
 
 <!--- All links mentioned here --->
