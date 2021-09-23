@@ -9,8 +9,8 @@
  
  <h3 align="left"><samp> Developer and Competitive profiles </samp></h3>
 
- <a href="https://codeforces.com/profile/anonymous_2002" target="blank"><img align="center" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="50" width="100" /></a>
- <span class="iconify" data-icon="simple-icons:codechef" style="color: #743e1d;" data-width="98" data-height="98"></span>
+ <a href="https://codeforces.com/profile/anonymous_2002" target="blank"><img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="50" width="100" /></a>
+ <a href="https://leetcode.com/phoenix31/" target="blank"><img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" /></a>
 
 ### Connect with me.. 💬💬 
 <br />
