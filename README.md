@@ -16,7 +16,14 @@
  ![Badge](https://cp-logo.vercel.app/leetcode/phoenix31?logo=true)
  
  </p>
+ <br />
  
+ ---
+ 
+ - 🌱 I’m currently learning Javascript and Competitive Programming
+- 👯 I’m looking to collaborate on Open source
+- 💬 Ask me about Competitive Programing
+- 😄 Pronouns: He/Him
 
 <br />
 <br />
@@ -70,21 +77,10 @@
 [codechef]:(https://www.codechef.com/users/phoenix31)
 [leetcode]:(https://leetcode.com/phoenix31/)
       
+      
 
+<!--- all stuff deleted but might be required in future 
 
-
-
-<!---
-- 🌱 I’m currently learning Javascript and Competitive Programming
-- 👯 I’m looking to collaborate on Open source
-- 💬 Ask me about Competitive Programing
-- 😄 Pronouns: He/Him
- 
- --->
-
-<!--- all stuff deleted but might be required in future --->
-
- <!---
 <h2 align="left"><samp><i> -Developer and Competitive profiles...</i></samp></h2>
 
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
