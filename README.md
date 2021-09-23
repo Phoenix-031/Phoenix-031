@@ -5,7 +5,9 @@
 
 <h4 align="center"><samp>I'm a open source enthusiast and I am learning a lot from the community of developers. I am passionate about technology and how things work.
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
-
+ <br />
+ 
+ <a href="https://codeforces.com/profile/wwkfnknfkenfk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 
 ### Connect with me.. 💬💬 
 <br />
