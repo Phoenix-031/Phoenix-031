@@ -1,8 +1,8 @@
 ### Hey there !! nice to see you .  
 
 Weolcome to my page!
-I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.
-I'm currently living in kolkata,India.
+<h4 align="center">I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.
+I'm currently living in kolkata,India.</samp></h4>
 
 <h4 align="center"><samp>I'm a open source enthusiast and I am learning a lot from the community of developers. I am passionate about technology and how things work.
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
