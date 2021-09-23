@@ -50,11 +50,9 @@
  <img align="right" alt=" Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
 
 <br />
+<br />
 
 <h2 align="left"><samp><i> -Connect with me...</i></samp></h2>
-<br />
-<br />
-<br />
 <br />
 
 [<img width="30px" align="center" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
