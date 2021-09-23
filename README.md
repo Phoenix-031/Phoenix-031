@@ -1,4 +1,4 @@
-##_ HEY !!_
+## HEY !!
 
 
 - 🌱 I’m currently learning Javascript and Competitive Programming
