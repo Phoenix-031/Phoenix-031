@@ -53,7 +53,6 @@
 <br />
 
 <h2 align="left"><samp><i> -Connect with me...</i></samp></h2>
-<br />
 
 [<img width="30px" align="center" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
 [<img width="30px" align="center" src="https://img.icons8.com/color/96/000000/twitter--v2.png"/>][twitter]
