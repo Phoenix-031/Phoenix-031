@@ -11,10 +11,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas
 ### Connect with me.. 💬💬 
 <br />
 
-[<img align= 'left' alt="Debayan" width="40px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/linkedin.svg" />][linkedin]
-[<img align= 'left' alt="Debayan" width="40px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/instagram.svg" />][instagram]
-[<img align= 'left' alt="Debayan" width="40px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/twitter.svg" />][twitter]
-[<img align= 'left' alt="Debayan" width="40px" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/facebook.svg" />][facebook]
+[<img width="30px" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
+[<img width="30px" src="https://img.icons8.com/cute-clipart/128/000000/instagram-new.png"/>][instagram]
+[<img width="30px" src="https://img.icons8.com/color/96/000000/twitter--v2.png"/>][twitter]
+[<img width="30px" src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/>][facebook]
 
 <br />
 <br />
