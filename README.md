@@ -20,10 +20,13 @@
  
  ---
  
- - 🌱 I’m currently learning Javascript and Competitive Programming
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=Phoenix-031" alt="https://github.com/Phoenix-031" /></p>
+  
+ - 🌱 I’m currently learning Javascript and working o my Competitive Programming skills
 - 👯 I’m looking to collaborate on Open source
 - 💬 Ask me about Competitive Programing
 - 😄 Pronouns: He/Him
+- 😁 I love linux and will be switching soon
 
 <br />
 <br />
