@@ -1,6 +1,8 @@
-<h2 align="left"> Hey there !! nice to see you .</h2>
+<h2 align="center"> Hey there !! nice to see you .<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-<h4 align="center">I'm Debayan, aspiring software dev. and currently pursuining my undergraduate degree in computer science.</samp></h4>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Computer+Science+Student;Life+Long+Learner;AI+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributer;Always+Learning+New+Things&center=true&width=500&height=50"></a>
+</p>
 
 <h4 align="center"><samp>I'm a open source enthusiast and I am learning a lot from the community of developers. I am passionate about technology and how things work.
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
