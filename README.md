@@ -65,10 +65,10 @@
 <p align="center"><b><i>Here are my socials.Don't hesitate to connect.😄 </i></b></p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/debayan-pradhan-b138641b4/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://twitter.com/phoenix__31"><img align="center" src="https://img.shields.io/badge/phoenix__31-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
- <a href="https://instagram.com/__anonymous___2002___"><img align="center"src="https://img.shields.io/badge/__anonymous___2002___-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
- <a href="https://www.facebook.com/debayan.pradhan.3/"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/debayan-pradhan-b138641b4/"><img alt=Linkedin src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+ <a href="https://twitter.com/phoenix__31"><img alt="twitter" src="https://img.shields.io/badge/phoenix__31-%231DA1F2.svg?&logo=Twitter&logoColor=white" /></a>
+ <a href="https://instagram.com/__anonymous___2002___"><img alt="Instagram" src="https://img.shields.io/badge/__anonymous___2002___-%23E4405F.svg?&logo=Instagram&logoColor=white" /></a>
+ <a href="https://www.facebook.com/debayan.pradhan.3/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=Facebook&logoColor=white" /></a>
  
 </p>
 
