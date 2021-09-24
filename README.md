@@ -49,16 +49,16 @@
  
  <!--- Github anlytics --->
  
- <p>
 <h2 align="left"><b>Github Analytics</b></h2>
- <br />
+ <details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
  
- <img align="left" width="47%" alt=" Github Stat's " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox&show_icons=true" /> 
- <img align="right" width="47%" alt=" Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" /> 
+ <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox&show_icons=true" /> 
+ <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" /> 
+  
+  </details>
  
- <br /><br /><br /><br /><br /><br />
- </p>
-<br />
 
 <!--- Connect with me links --->
 ---
