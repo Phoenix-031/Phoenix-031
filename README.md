@@ -1,27 +1,40 @@
 <h2 align="center"> Hey there !! nice to see you .<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Computer+Science+Student;Life+Long+Learner;AI+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributer;Always+Learning+New+Things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Computer+Science+Student;Life+Long+Learner+!!;AI+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributer;Always+Learning+New+Things&center=true&width=500&height=50"></a>
 </p>
 
 <h4 align="center"><samp>I'm a open source enthusiast and I am learning a lot from the community of developers. I am passionate about technology and how things work.
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
  <br />
  
+ 
  <!--- All competitive programming profiles --->
  
  <p align="center">
  
- ![Badge](https://cp-logo.vercel.app/codechef/phoenix31?logo=true)
- ![Badge](https://cp-logo.vercel.app/codeforces/anonymous_2002?logo=true)
- ![Badge](https://cp-logo.vercel.app/atcoder/phoenix31?logo=true)
- ![Badge](https://cp-logo.vercel.app/leetcode/phoenix31?logo=true)
- 
+  <a href="https://www.codechef.com/users/phoenix31"><img align="center" alt=codechef src="https://img.shields.io/badge/codechef-%230077B5.svg?logo=codechef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/anonymous_2002"><img align="center" alt=codeforces src="https://img.shields.io/badge/codeforces-%230077B5.svg?logo=CodeForcesf&logoColor=white" /></a>
+  <a href="https://leetcode.com/phoenix31/"><img alt=leetcode align="center" src="https://img.shields.io/badge/leetcode-%230077B5.svg?logo=leetcode&logoColor=white" /></a>
+  <a href="https://atcoder.jp/users/phoenix31"><img alt=atcoder align="center" src="https://img.shields.io/badge/atcoder-%230077B5.svg?logo=atcoder&logoColor=white" /></a>
+
  </p>
  <br />
  
  ---
  
+ ## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+<p align="center">
+  <a href="https://github.com/Phoenix-031/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phoenix-031's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix-031&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
   <p align="center"><img src="https://komarev.com/ghpvc/?username=Phoenix-031" alt="https://github.com/Phoenix-031" /></p>
   
  - 🌱 I’m currently learning Javascript and working on my Competitive Programming skills
@@ -31,9 +44,10 @@
 - 😁 I love linux but am still worling on windows!😅
 
 <br />
-<br />
 
-<h2 align="left"><samp><i><b>Tools and Technologies</b></i></samp></h2>
+<!--- tools and technologies and tech stack i'v worked with --->
+
+<h2 align="left"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
 
  <p>
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
@@ -48,13 +62,14 @@
 </p>
  
  <!--- Github anlytics --->
+ <!-- https://github.com/anuraghazra/github-readme-stats -->
  
 <h2 align="left"><b>Github Analytics</b></h2>
  <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
  
- <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=gruvbox&show_icons=true" /> 
+ <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
  <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" /> 
   
   </details>
@@ -90,5 +105,12 @@
 
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
 [<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]  --->
+[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]  
+
+
+ ![Badge](https://cp-logo.vercel.app/codechef/phoenix31?logo=true)
+ ![Badge](https://cp-logo.vercel.app/codeforces/anonymous_2002?logo=true)
+ ![Badge](https://cp-logo.vercel.app/atcoder/phoenix31?logo=true)
+ ![Badge](https://cp-logo.vercel.app/leetcode/phoenix31?logo=true)
+ --->
 
