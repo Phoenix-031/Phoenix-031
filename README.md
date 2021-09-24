@@ -11,10 +11,9 @@
  
  <!--- All competitive programming profiles --->
  
- <p align="center">
- 
-  <a href="https://www.codechef.com/users/phoenix31"><img align="center" alt=codechef src="https://img.shields.io/badge/codechef-%236DB33A.svg?logo=codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/anonymous_2002"><img align="center" alt=codeforces src="https://img.shields.io/badge/codeforces-%2312100E.svg?logo=CodeForcesf&logoColor=white" /></a>
+ <p>
+  <a href="https://www.codechef.com/users/phoenix31"><img align="center" alt=codechef src="https://img.shields.io/badge/codechef-%236DB33A.svg?logo=codechef&logoColor=white" />   </a>
+  <a href="https://codeforces.com/profile/anonymous_2002"><img align="center" alt=codeforces src="https://img.shields.io/badge/codeforces-%2312100E.svg?         logo=CodeForcesf&logoColor=white" /></a>
   <a href="https://leetcode.com/phoenix31/"><img alt=leetcode align="center" src="https://img.shields.io/badge/leetcode-%2343853D.svg?logo=leetcode&logoColor=white" /></a>
   <a href="https://atcoder.jp/users/phoenix31"><img alt=atcoder align="center" src="https://img.shields.io/badge/atcoder-%23232F3E.svg?logo=atcoder&logoColor=white" /></a>
 
@@ -35,7 +34,7 @@
 
 <h2 align="left"><samp><i><b>🛠️ Tech Stack </b></i></samp></h2>
 
- <p>
+ <p align="center">
       <img width="50px" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/python--v1.png"/>
       <img width="50px" src="https://img.icons8.com/color/96/000000/git.png"/>
