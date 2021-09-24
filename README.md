@@ -64,7 +64,7 @@
  <!--- Github anlytics --->
  <!-- https://github.com/anuraghazra/github-readme-stats -->
  
-<h2 align="left"><b>Github Analytics</b></h2>
+<h2 align="left"><b> 📊 Github Analytics</b></h2>
  <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
