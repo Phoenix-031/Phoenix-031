@@ -22,18 +22,6 @@
  <br />
  
  ---
- 
- ## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-
-<p align="center">
-  <a href="https://github.com/Phoenix-031/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phoenix-031's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix-031&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-<br />
-
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <p align="center"><img src="https://komarev.com/ghpvc/?username=Phoenix-031" alt="https://github.com/Phoenix-031" /></p>
