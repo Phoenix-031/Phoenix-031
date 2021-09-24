@@ -32,6 +32,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phoenix-031's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix-031&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+<br />
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -60,7 +61,8 @@
       <img width="50px" src="https://img.icons8.com/color/96/000000/linux--v2.png"/>
  
 </p>
- 
+<br />
+
  <!--- Github anlytics --->
  <!-- https://github.com/anuraghazra/github-readme-stats -->
  
