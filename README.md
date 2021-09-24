@@ -22,10 +22,7 @@
  <br />
  
  ---
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=Phoenix-031" alt="https://github.com/Phoenix-031" /></p>
-  
+ 
  - 🌱 I’m currently learning Javascript and working on my Competitive Programming skills
 - 👯 I’m looking to collaborate on Open source
 - 💬 Ask me about Competitive Programing
