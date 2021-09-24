@@ -18,7 +18,6 @@
   <a href="https://atcoder.jp/users/phoenix31"><img alt=atcoder align="center" src="https://img.shields.io/badge/atcoder-%23232F3E.svg?logo=atcoder&logoColor=white" /></a>
 
  </p>
- <br />
  
  ---
  
