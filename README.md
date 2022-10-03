@@ -27,6 +27,9 @@
 - 😄 Pronouns: He/Him
 - 😁 I love linux but am still worling on windows!😅
 
+
+[![@phoenix031's Holopin board](https://holopin.io/api/user/board?user=phoenix031)](https://holopin.io/@phoenix031)
+
 <br />
 
 <!--- tools and technologies and tech stack i'v worked with --->
