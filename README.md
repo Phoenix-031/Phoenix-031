@@ -28,7 +28,6 @@
 - 😁 I love linux but am still worling on windows!😅
 
 
-[![@phoenix031's Holopin board](https://holopin.io/api/user/board?user=phoenix031)](https://holopin.io/@phoenix031)
 
 <br />
 
@@ -110,4 +109,6 @@
  ![Badge](https://cp-logo.vercel.app/atcoder/phoenix31?logo=true)
  ![Badge](https://cp-logo.vercel.app/leetcode/phoenix31?logo=true)
  --->
+ 
+ [![@phoenix031's Holopin board](https://holopin.io/api/user/board?user=phoenix031)](https://holopin.io/@phoenix031)
 
