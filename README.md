@@ -57,10 +57,23 @@
 </p>
 <br />
 
+<details>
+<summary>
+  <h3>⚡ Recent GitHub Activity</h3>
+</summary>
+
+----
+
+<a href="https://github.com/Phoenix-031"><img alt="Phoenix's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phoenix-031&custom_title=Phoenix-031's%20Contribution%20Graph&theme=react-dark" /></a>
+ 
+</details>
+
+
  <!--- Github anlytics --->
  <!-- https://github.com/anuraghazra/github-readme-stats -->
  
 <h2 align="left"><b> 📊 Github Analytics</b></h2>
+
  <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
