@@ -11,7 +11,7 @@
  
  <!--- All competitive programming profiles --->
  
- <p>
+ <p align="center">
   <a href="https://www.codechef.com/users/phoenix31"><img align="center" alt=codechef src="https://img.shields.io/badge/codechef-%236DB33A.svg?logo=codechef&logoColor=white" />   </a>
   <a href="https://codeforces.com/profile/anonymous_2002"><img align="center" alt=codeforces src="https://img.shields.io/badge/codeforces-%2312100E.svg?         logo=CodeForcesf&logoColor=white" /></a>
   <a href="https://leetcode.com/phoenix31/"><img alt=leetcode align="center" src="https://img.shields.io/badge/leetcode-%2343853D.svg?logo=leetcode&logoColor=white" /></a>
@@ -68,11 +68,17 @@
  
 </details>
 
+<details>
+    <summary> 
+      <h3> :trophy: Git profile Trophies </h3>
+    </summary>
 
- <!--- Github anlytics --->
- <!-- https://github.com/anuraghazra/github-readme-stats -->
- 
-<h2 align="left"><b> 📊 Github Analytics</b></h2>
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phoenix-031&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Phoenix-031" /></a> </p>
+	
+</details>
+
 
  <details> 
   <summary>💻 GitHub Profile Stats</summary>
