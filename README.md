@@ -20,11 +20,13 @@
  </p>
  
  <h2 align="center">About Me</h2>
- ---
  
- - 🌱 I’m currently learning Javascript and working on my Competitive Programming skills
-- 👯 I’m looking to collaborate on Open source
-- 💬 Ask me about Competitive Programing
+ - 🌱 I’m currently working on Javascript and Typescript!!
+ - 😍 Exploring Devops
+ - 😀 I'm working on Fullstack projects with MERN stack
+ - 😊 Building chrome extensions
+- 👯 I’m looking to collaborate on Fullstack projects
+- 💬 Ask me about Competitive Programming
 - 😄 Pronouns: He/Him
 - 😁 I love linux but am still worling on windows!😅
 
@@ -61,27 +63,19 @@
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
-	
 <div>
   <p align="center">
     	<a href="https://github.com/Phoenix-031/Mern-blog_app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Mern-blog_app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	
   </p>
 </div>
 </details>
-
-</br>
-
 
 <details>
 <summary>
   <h3>⚡ Recent GitHub Activity</h3>
 </summary>
-
-----
 
 <a href="https://github.com/Phoenix-031"><img alt="Phoenix's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phoenix-031&custom_title=Phoenix-031's%20Contribution%20Graph&theme=react-dark" /></a>
  
@@ -92,21 +86,18 @@
       <h3> :trophy: Git profile Trophies </h3>
     </summary>
 
-----
-	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phoenix-031&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Phoenix-031" /></a> </p>
 	
 </details>
 
-
  <details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
- 
+	<summary>
+	  <h3>💻 GitHub Profile Stats</h3>
+	</summary>
  <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
  <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" /> 
   
-  </details>
+ </details>
  
 
 <!--- Connect with me links --->
