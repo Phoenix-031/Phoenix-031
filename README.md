@@ -66,7 +66,22 @@
 <div>
   <p align="center">
     	<a href="https://github.com/Phoenix-031/Mern-blog_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Mern-blog_app&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Mern-blog_app&theme=dracula" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Phoenix-031/Terminal-website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Terminal-website&theme=dracula" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Phoenix-031/CSS-Battle">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=CSS-Battle&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Phoenix-031/Algorithm_visualiser">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Algorithm_visualiser&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Phoenix-031/Tkinter_projs">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Tkinter_projs&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Phoenix-031/Randompass_chromeExt">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Randompass_chromeExt&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
