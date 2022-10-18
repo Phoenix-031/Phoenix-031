@@ -72,18 +72,17 @@
 </div>
 
 
-	 <h3>💻 GitHub Profile Stats</h3>
+<!-- 	 <h3>💻 GitHub Profile Stats</h3>
 
 	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
 	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
 
+ -->
 
 
+<h3>⚡ Recent GitHub Activity</h3>
 
-	<h3>⚡ Recent GitHub Activity</h3>
-
-	<a href="https://github.com/Phoenix-031"><img alt="Phoenix's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phoenix-031&custom_title=Phoenix-031's%20Contribution%20Graph&theme=react-dark" /></a>
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phoenix-031&bg_color=070b1c&color=ffffff&line=ffffff&point=d61f1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
