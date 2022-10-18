@@ -72,12 +72,10 @@
 </div>
 
 
-<!-- 	 <h3>💻 GitHub Profile Stats</h3>
+ <h3>💻 GitHub Profile Stats</h3>
 
-	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
-	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
-
- -->
+ <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
+ <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
 
 
 <h3>⚡ Recent GitHub Activity</h3>
