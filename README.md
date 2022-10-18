@@ -19,6 +19,7 @@
 
  </p>
  
+ <h2 align="center">About Me</h2>
  ---
  
  - 🌱 I’m currently learning Javascript and working on my Competitive Programming skills
