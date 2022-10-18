@@ -72,10 +72,8 @@
 </div>
 
 
- <h3>💻 GitHub Profile Stats</h3>
-
- <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
- <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Debayan's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <h3>⚡ Recent GitHub Activity</h3>
