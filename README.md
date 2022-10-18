@@ -62,8 +62,7 @@
 <br />
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
+<h3> :open_file_folder: My Repositories </h3>
 <div>
   <p align="center">
     	<a href="https://github.com/Phoenix-031/Mern-blog_app">
@@ -71,16 +70,22 @@
     	</a>
   </p>
 </div>
-</details>
 
-<details>
-<summary>
-  <h3>⚡ Recent GitHub Activity</h3>
-</summary>
+<div>
+	 <h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github.com/Phoenix-031"><img alt="Phoenix's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phoenix-031&custom_title=Phoenix-031's%20Contribution%20Graph&theme=react-dark" /></a>
- 
-</details>
+	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
+	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
+</div>
+
+
+<div>
+	<h3>⚡ Recent GitHub Activity</h3>
+
+	<a href="https://github.com/Phoenix-031"><img alt="Phoenix's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phoenix-031&custom_title=Phoenix-031's%20Contribution%20Graph&theme=react-dark" /></a>
+
+</div>
+
 
 <details>
     <summary> 
@@ -89,16 +94,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phoenix-031&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Phoenix-031" /></a> </p>
 	
-</details>
-
- <details> 
-	<summary>
-	  <h3>💻 GitHub Profile Stats</h3>
-	</summary>
- <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
- <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" /> 
-  
- </details>
+</details> 
  
 
 <!--- Connect with me links --->
