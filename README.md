@@ -8,6 +8,7 @@
  I am always open to collaborating on projects and innovative/disruptive ideas</samp></h4>
  <br />
  
+ [![@phoenix031's Holopin board](https://holopin.io/api/user/board?user=phoenix031)](https://holopin.io/@phoenix031)
  
  <!--- All competitive programming profiles --->
  
@@ -122,22 +123,3 @@
 [codechef]:(https://www.codechef.com/users/phoenix31)
 [leetcode]:(https://leetcode.com/phoenix31/)
       
-      
-
-<!--- all stuff deleted but might be required in future 
-
-<h2 align="left"><samp><i> -Developer and Competitive profiles...</i></samp></h2>
-
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codeforces-seeklogo.com.svg" height="70" width="90" />][codeforces]
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/codechef.png" height="30" width="40" />][codechef]
-[<img align="left" src="https://github.com/Phoenix-031/Phoenix-031/blob/main/LeetCode_logo_black.png" height="40" width="40" />][leetcode]  
-
-
- ![Badge](https://cp-logo.vercel.app/codechef/phoenix31?logo=true)
- ![Badge](https://cp-logo.vercel.app/codeforces/anonymous_2002?logo=true)
- ![Badge](https://cp-logo.vercel.app/atcoder/phoenix31?logo=true)
- ![Badge](https://cp-logo.vercel.app/leetcode/phoenix31?logo=true)
- --->
- 
- [![@phoenix031's Holopin board](https://holopin.io/api/user/board?user=phoenix031)](https://holopin.io/@phoenix031)
-
