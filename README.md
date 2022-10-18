@@ -71,20 +71,20 @@
   </p>
 </div>
 
-<div>
+
 	 <h3>💻 GitHub Profile Stats</h3>
 
 	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&theme=nightowl&show_icons=true" /> 
 	 <img height="192px" alt=" Phoenix-031 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&theme=nightowl" />
-</div>
 
 
-<div>
+
+
 	<h3>⚡ Recent GitHub Activity</h3>
 
 	<a href="https://github.com/Phoenix-031"><img alt="Phoenix's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Phoenix-031&custom_title=Phoenix-031's%20Contribution%20Graph&theme=react-dark" /></a>
 
-</div>
+
 
 
 <details>
