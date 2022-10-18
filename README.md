@@ -1,7 +1,7 @@
 <h2 align="center"> Hey there !! nice to see you .<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Computer+Science+Student;Life+Long+Learner+!!;AI+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributer;Always+Learning+New+Things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Computer+Science+Student;Love+to+overengineer+websites;Interested+in+Devops;Exploring+cyber+security+with+emphasis+on+malware+analysis!;FullStack+Developer+!!;AI+ML+Enthusiast;Competitive+Programmer;I+Love+Opensource;Always+Learning+New+Things;Working+On+Projects+is+what+keeps+me+alive&center=true&width=500&height=50"></a>
 </p>
 
 <h4 align="center"><samp>I'm a open source enthusiast and I am learning a lot from the community of developers. I am passionate about technology and how things work.
