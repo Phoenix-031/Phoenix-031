@@ -62,7 +62,7 @@
 <br />
 
 
-<h3> :open_file_folder: My Repositories </h3>
+<!-- <h3> :open_file_folder: My Repositories </h3>
 <div>
   <p align="center">
     	<a href="https://github.com/Phoenix-031/Mern-blog_app">
@@ -84,10 +84,10 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix-031&repo=Randompass_chromeExt&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
-</div>
+</div> -->
 
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Debayan's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&layout=compact&theme=dracula&hide_border=true" /></a> |
+<!-- | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Phoenix-031&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Debayan's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-031&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -95,7 +95,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phoenix-031&bg_color=070b1c&color=ffffff&line=ffffff&point=d61f1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+ -->
 
 <details>
     <summary> 
