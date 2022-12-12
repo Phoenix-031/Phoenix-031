@@ -45,7 +45,8 @@
 
 ### Frameworks/Libraries
 
-<img src="https://skillicons.dev/icons?i=materialui,react,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=materialui,react,tailwind,redux,next,framer" />
+<img src="https://avatars.githubusercontent.com/u/42876?s=200&v=4" width='50px' height='50px' />
 
 ### Backend
 
