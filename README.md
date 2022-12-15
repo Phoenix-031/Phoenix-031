@@ -25,6 +25,7 @@
  - 🌱 I’m currently working on Javascript and Typescript!!
  - 😍 Exploring Devops
  - 😀 I'm working on Fullstack projects with MERN stack
+ - 😊 I'm learning Nextjs and Gatsby
  - 😊 Building chrome extensions
 - 👯 I’m looking to collaborate on Fullstack projects
 - 💬 Ask me about Competitive Programming
